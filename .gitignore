@@ -1,0 +1,8 @@
+/build/
+*.obj
+*.o
+*.exe
+*.wav
+*.bin
+.vs/
+.cache/
